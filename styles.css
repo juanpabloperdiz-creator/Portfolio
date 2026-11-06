@@ -99,7 +99,3 @@ dialog.lb button{margin-top:.6rem}
 .who{display:flex;gap:1rem;align-items:center}
 .who img{width:4.5rem;height:4.5rem;border-radius:50%;object-fit:cover;border:2px solid var(--hline);flex:none}
 .hbtn{display:inline-block;margin-top:.8rem;background:#ffd23f;color:#0d1b4c;font:700 .95rem Outfit,sans-serif;text-decoration:none;padding:.7rem 1.5rem;border-radius:2rem;border:2px solid #0d1b4c;box-shadow:3px 3px 0 #0d1b4c}
-.tw{overflow-x:auto;margin:.8rem 0}
-.tbl{width:100%;border-collapse:collapse;font-size:.95rem}
-.tbl th,.tbl td{text-align:left;padding:.5rem .7rem;border:1.5px solid var(--hline);white-space:nowrap}
-.tbl th{background:var(--hbox);font-family:Outfit,sans-serif}
